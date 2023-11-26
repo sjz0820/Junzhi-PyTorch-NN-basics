@@ -1,1 +1,1 @@
-# Junzhi-PyTorch-NN-basics
+# Junzhi-GR5242-HW4
